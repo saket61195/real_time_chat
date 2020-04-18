@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: chat_app
+  host: localhost
+  username: postgres
+  password: adware@123
+  pool: 5
