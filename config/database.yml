@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: chat_app
+  database: chat_test
   host: localhost
   username: postgres
   password: adware@123
